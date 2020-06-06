@@ -4,4 +4,5 @@
 Библиотека lazydaredevil для работы с графами
 
 import lazydaredevil as ldd
+
 ldd.main()
